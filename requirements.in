@@ -1,0 +1,6 @@
+flask
+flask-bootstrap
+flask-wtf
+flake8
+python-dotenv
+isort
